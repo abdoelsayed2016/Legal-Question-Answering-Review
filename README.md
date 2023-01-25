@@ -34,7 +34,7 @@ If you find this repository helpful, you may consider cite our relevant work:
 
 ## 2020
 ### Conference
-* Sovrano, F., Palmirani, M., & Vitali, F. (2020). Legal knowledge extraction for knowledge graph based question-answering. In Legal Knowledge and Information Systems (pp. 143-153). IOS Press.
+* Sovrano, F., Palmirani, M., & Vitali, F. (2020). Legal knowledge extraction for knowledge graph based question-answering. In Legal Knowledge and Information Systems (pp. 143-153). IOS Press. [Paper Link](https://ebooks.iospress.nl/volumearticle/56171)
 
 ## Cite as
 If you find this work useful for your research, please cite our paper:
