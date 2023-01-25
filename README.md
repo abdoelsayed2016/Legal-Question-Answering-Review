@@ -22,11 +22,19 @@ If you find this repository helpful, you may consider cite our relevant work:
 
 
 # Legal Question Answering papers
-## 1993
+## 2014
 ### Journal
 *  [Paper Link]()
 ### Conference
-*  [Paper Link]()
+*  Kim, M. Y., Xu, Y., Goebel, R., & Satoh, K. (2014). Answering yes/no questions in legal bar exams. In New Frontiers in Artificial Intelligence: JSAI-isAI 2013 Workshops, LENLS, JURISIN, MiMI, AAA, and DDS, Kanagawa, Japan, October 27–28, 2013, Revised Selected Papers 5 (pp. 199-213). Springer International Publishing. [Paper Link](https://link.springer.com/chapter/10.1007/978-3-319-10061-6_14)
+
+## 2017
+### Conference
+* Taniguchi, R., & Kano, Y. (2017). Legal yes/no question answering system using case-role analysis. In New Frontiers in Artificial Intelligence: JSAI-isAI 2016 Workshops, LENLS, HAT-MASH, AI-Biz, JURISIN and SKL, Kanagawa, Japan, November 14-16, 2016, Revised Selected Papers (pp. 284-298). Springer International Publishing.  [Paper Link](https://link.springer.com/chapter/10.1007/978-3-319-61572-1_19)
+
+## 2020
+### Conference
+* Sovrano, F., Palmirani, M., & Vitali, F. (2020). Legal knowledge extraction for knowledge graph based question-answering. In Legal Knowledge and Information Systems (pp. 143-153). IOS Press.
 
 ## Cite as
 If you find this work useful for your research, please cite our paper:
