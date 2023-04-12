@@ -4,9 +4,9 @@
 
 This is the repository for the collection of Legal Question Answering models and Datasets.
 
-If you find this repository helpful, you may consider cite our relevant work:
+relevant work:
 
-*  
+*  https://github.com/law-AI/ecir2023tutorial
 
 
 # Legal Question Answering Datasets
