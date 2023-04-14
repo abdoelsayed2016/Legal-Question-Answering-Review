@@ -80,7 +80,7 @@ relevant work:
 ## 2022
 ### Conference
 * Askari, Arian, Suzan Verberne, and Gabriella Pasi. "Expert finding in legal community question answering." In Advances in Information Retrieval: 44th European Conference on IR Research, ECIR 2022, Stavanger, Norway, April 10–14, 2022, Proceedings, Part II, pp. 22-30. Cham: Springer International Publishing, 2022. [Paper Link](https://link.springer.com/chapter/10.1007/978-3-030-99739-7_3)
-*  S. S. Alotaibi, A. A. Munshi, A. T. Farag, O. E. Rakha, A. A. Al Sallab, and M. Alotaibi. Kab: Knowledge augmented bert2bert automated questionsanswering system for jurisprudential legal opinions. INTERNATIONAL JOURNAL OF COMPUTER SCIENCE AND NETWORK SECURITY, 22(6):346{356, JUN 30 2022. ISSN 1738-7906. doi: 10.22937/IJCSNS. 2022.22.6.44. * [Paper Link](http://ijcsns.org/07_book/html/202206/202206044.html)
+*  S. S. Alotaibi, A. A. Munshi, A. T. Farag, O. E. Rakha, A. A. Al Sallab, and M. Alotaibi. Kab: Knowledge augmented bert2bert automated questionsanswering system for jurisprudential legal opinions. INTERNATIONAL JOURNAL OF COMPUTER SCIENCE AND NETWORK SECURITY, 22(6):346{356, JUN 30 2022. ISSN 1738-7906. doi: 10.22937/IJCSNS. 2022.22.6.44. [Paper Link](http://ijcsns.org/07_book/html/202206/202206044.html)
 
 
 
