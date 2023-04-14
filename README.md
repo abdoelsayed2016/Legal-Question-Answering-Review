@@ -69,10 +69,6 @@ relevant work:
 * Hoshino, Reina, Ryosuke Taniguchi, Naoki Kiyota, and Yoshinobu Kano. "Question answering system for legal bar examination using predicate argument structure." In New Frontiers in Artificial Intelligence: JSAI-isAI 2018 Workshops, JURISIN, AI-Biz, SKL, LENLS, IDAA, Yokohama, Japan, November 12–14, 2018, Revised Selected Papers, pp. 207-220. Springer International Publishing, 2019. [Paper Link](https://link.springer.com/chapter/10.1007/978-3-030-31605-1_16) [Paper Link](http://paper.ijcsns.org/07_book/202206/20220644.pdf) 
 
 
-* [Paper Link]()
-* [Paper Link]()
-* [Paper Link]()
-
 ## 2020
 ### Conference
 * Sovrano, F., Palmirani, M., & Vitali, F. (2020). Legal knowledge extraction for knowledge graph based question-answering. In Legal Knowledge and Information Systems (pp. 143-153). IOS Press. [Paper Link](https://ebooks.iospress.nl/volumearticle/56171)
@@ -84,14 +80,21 @@ relevant work:
 ## 2022
 ### Conference
 * Askari, Arian, Suzan Verberne, and Gabriella Pasi. "Expert finding in legal community question answering." In Advances in Information Retrieval: 44th European Conference on IR Research, ECIR 2022, Stavanger, Norway, April 10–14, 2022, Proceedings, Part II, pp. 22-30. Cham: Springer International Publishing, 2022. [Paper Link](https://link.springer.com/chapter/10.1007/978-3-030-99739-7_3)
-
+*  S. S. Alotaibi, A. A. Munshi, A. T. Farag, O. E. Rakha, A. A. Al Sallab, and M. Alotaibi. Kab: Knowledge augmented bert2bert automated questionsanswering system for jurisprudential legal opinions. INTERNATIONAL JOURNAL OF COMPUTER SCIENCE AND NETWORK SECURITY, 22(6):346{356, JUN 30 2022. ISSN 1738-7906. doi: 10.22937/IJCSNS. 2022.22.6.44. * [Paper Link](http://ijcsns.org/07_book/html/202206/202206044.html)
 
 
 
 ## Cite as
 If you find this work useful for your research, please cite our paper:
 ```
-
+@misc{abdallah2023exploring,
+    title={Exploring the State of the Art in Legal QA Systems},
+    author={Abdelrahman Abdallah and Bhawna Piryani and Adam Jatowt},
+    year={2023},
+    eprint={2304.06623},
+    archivePrefix={arXiv},
+    primaryClass={cs.CL}
+}
 
 ```
 
