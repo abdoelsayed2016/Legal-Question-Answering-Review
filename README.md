@@ -1,4 +1,4 @@
-# <a target="_blank" rel="noopener noreferrer"  href="">Legal Question Answering: A Survey of Approaches and Challenges </a>
+# <a>Legal Question Answering: A Survey of Approaches and Challenges </a>
 ## Legal Question Answering
 
 
